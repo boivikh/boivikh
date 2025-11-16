@@ -8,7 +8,7 @@
 
 ---
 
-## 🔥 Realtime Overview
+## 🔥  Overview
 <p align="center">
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boivikh&theme=react-dark&hide_border=true&area=true" width="100%" />
@@ -20,21 +20,21 @@
 
 ---
 
-## ⚡ Live Coding Time (Wakatime)
+## ⚡ Live Coding Time 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Boivikh&hide_border=true&theme=tokyonight&bg_color=00000000" />
 </p>
 
 ---
 
-## 🚀 Tech Snapshot (animated)
+## 🚀 Tech Snapshot
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,go,postgres,redis,docker,vercel,cloudflare&theme=light" />
 </p>
 
 ---
 
-## 🎛️ Realtime Widgets
+## 🎛️  Widgets
 <p align="center">
   <!-- Spotify Now Playing -->
   <img src="https://novatorem.vercel.app/api/spotify" width="450" />
@@ -48,14 +48,14 @@
 
 ---
 
-## 🛰️ Animated Cards (auto-updating)
+## 🛰️ Animated Cards 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Boivikh&theme=onestar&column=6&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-## 🧩 Micro-Projects (auto-updating)
+## 🧩 Micro-Projects
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boivikh&repo=project-1&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boivikh&repo=project-2&theme=tokyonight&hide_border=true" />
