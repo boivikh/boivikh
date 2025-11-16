@@ -1,54 +1,75 @@
-<!-- =========================================================== -->
-<!--                     🜁  BOIVIKH — CANADA  🜁                 -->
-<!--         Minimal | Visual | Animated | Original Profile       -->
-<!-- =========================================================== -->
+<!-- ----------------------------------------------------------------------- -->
+<!--                       🌌  BOIVIKH — CANADIAN DEV  🌌                    -->
+<!-- ----------------------------------------------------------------------- -->
 
 <p align="center">
-  <!-- Animated gradient title -->
-  <img src="https://raw.githubusercontent.com/Boivikh/Boivikh/main/assets/title-gradient.svg" width="100%" alt="Title" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Boivikh/Boivikh/main/assets/orb.gif" width="170" alt="orb animation"/>
-</p>
-
-<br>
-
-<p align="center">
-  <b>Crafting smooth, fast, modern visuals & experiences.</b><br/>
-  <small>Minimal text. Pure vibe. Canadian developer.</small>
-</p>
-
-<br>
-
----
-
-## ✦ Visual Pulse
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Boivikh/Boivikh/main/assets/pulse.gif" width="280" alt="pulse animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E0FF&center=true&vCenter=true&width=700&height=60&lines=Boivikh+%7C+Full-Stack+Developer;Canadian+Dev+%F0%9F%8D%81;Building+Fast+%2B+Realtime+Experiences;React+%7C+Next.js+%7C+Node.js+%7C+TS" />
 </p>
 
 ---
 
-## ✦ Motion Grid
+## 🔥 Realtime Overview
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Boivikh/Boivikh/main/assets/grid.gif" width="420" alt="moving grid"/>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boivikh&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Boivikh&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boivikh&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
 
-## ✦ Smooth Waveform
+## ⚡ Live Coding Time (Wakatime)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Boivikh/Boivikh/main/assets/wave.gif" width="480" alt="wave animation"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Boivikh&hide_border=true&theme=tokyonight&bg_color=00000000" />
 </p>
 
 ---
 
-## ✦ Contact
+## 🚀 Tech Snapshot (animated)
 <p align="center">
-  <b>@Boivikh</b> — Anywhere you look.
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,go,postgres,redis,docker,vercel,cloudflare&theme=light" />
 </p>
 
 ---
 
-<p align="center"><i>Less words. More style.</i></p>
+## 🎛️ Realtime Widgets
+<p align="center">
+  <!-- Spotify Now Playing -->
+  <img src="https://novatorem.vercel.app/api/spotify" width="450" />
+
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Boivikh&color=00eaff&style=flat-square" />
+
+  <!-- Contributions Animation -->
+  <img src="https://github.com/Boivikh/Boivikh/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🛰️ Animated Cards (auto-updating)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Boivikh&theme=onestar&column=6&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🧩 Micro-Projects (auto-updating)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boivikh&repo=project-1&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boivikh&repo=project-2&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Social / Presence
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-Online-brightgreen?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" />
+</p>
+
+---
+
+<p align="center"><b>⚡ Minimal text. Maximum realtime visuals. Always updating.</b></p>
+
