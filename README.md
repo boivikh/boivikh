@@ -1,75 +1,113 @@
-<!-- ----------------------------------------------------------------------- -->
-<!--                       🌌  BOIVIKH — CANADIAN DEV  🌌                    -->
-<!-- ----------------------------------------------------------------------- -->
+# 🚀 **xmicode** - Développeur Passionné & Créateur de Contenu
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E0FF&center=true&vCenter=true&width=700&height=60&lines=Boivikh+%7C+Full-Stack+Developer;Canadian+Dev+%F0%9F%8D%81;Building+Fast+%2B+Realtime+Experiences;React+%7C+Next.js+%7C+Node.js+%7C+TS" />
-</p>
+<div align="center">
+  
+![Animated Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:4834d4,100:130f40&height=200&section=header&text=xmicode&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
----
+### **👨‍💻 Développeur depuis 14 ans**
+### **🎬 YouTubeur Tech & Code**
 
-## 🔥  Overview
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boivikh&theme=react-dark&hide_border=true&area=true" width="100%" />
+<br>
 
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Boivikh&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boivikh&theme=tokyonight&hide_border=true" height="170" />
-</p>
+## 🌟 **STATISTIQUES EN TEMPS RÉEL**
 
----
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/channel/UCYnvxJ-PKiGXo_tYXpWAC-w" target="_blank">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UCYnvxJ-PKiGXo_tYXpWAC-w?label=YouTube&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&labelColor=000000" alt="YouTube Subscribers" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/ABONNÉS-EN DIRECT-blue?style=flat-square&logo=youtube&logoColor=white&color=FF0000&labelColor=000000" />
+    </td>
+    <td align="center">
+      <a href="https://x.com/micode" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/micode?label=Twitter&style=for-the-badge&logo=x&logoColor=white&color=000000&labelColor=1DA1F2" alt="Twitter Followers" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/FOLLOWERS-LIVE-brightgreen?style=flat-square&logo=x&logoColor=white&color=000000&labelColor=1DA1F2" />
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/micode/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-micode-blue?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F&labelColor=000000" alt="Instagram" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/PROFIL-ACTIF-purple?style=flat-square&logo=instagram&logoColor=white&color=E4405F&labelColor=000000" />
+    </td>
+  </tr>
+</table>
 
-## ⚡ Live Coding Time 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Boivikh&hide_border=true&theme=tokyonight&bg_color=00000000" />
-</p>
+<br>
 
----
+## 💻 **TECHNOLOGIES MAÎTRISÉES**
 
-## 🚀 Tech Snapshot
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,go,postgres,redis,docker,vercel,cloudflare&theme=light" />
-</p>
+<div align="center">
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-100%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
+![PHP](https://img.shields.io/badge/PHP-100%25-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![C++](https://img.shields.io/badge/C++-100%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
 
-## 🎛️  Widgets
-<p align="center">
-  <!-- Spotify Now Playing -->
-  <img src="https://novatorem.vercel.app/api/spotify" width="450" />
+</div>
 
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Boivikh&color=00eaff&style=flat-square" />
+<br>
 
-  <!-- Contributions Animation -->
-  <img src="https://github.com/Boivikh/Boivikh/blob/output/github-contribution-grid-snake.svg" />
-</p>
+## 📊 **ACTIVITÉ GITHUB**
 
----
+<div align="center">
 
-## 🛰️ Animated Cards 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Boivikh&theme=onestar&column=6&margin-w=10&margin-h=10" />
-</p>
+<!-- GitHub Stats -->
+![](https://github-readme-stats.vercel.app/api?username=xmicode&theme=radical&show_icons=true&count_private=true&include_all_commits=true&line_height=30)
+![](https://github-readme-streak-stats.herokuapp.com/?user=xmicode&theme=radical&hide_border=false)
 
----
+<!-- Langages les plus utilisés -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xmicode&theme=radical&hide_border=false&layout=compact&langs_count=10)
 
-## 🧩 Micro-Projects
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boivikh&repo=project-1&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boivikh&repo=project-2&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
----
+<br>
 
-## 🌐 Social / Presence
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-Online-brightgreen?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" />
-</p>
+## 🔗 **CONNECTE-TOI AVEC MOI**
 
----
+<div align="center">
 
-<p align="center"><b>⚡ Minimal text. Maximum realtime visuals. Always updating.</b></p>
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYnvxJ-PKiGxYpWAC-w)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/micode)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/micode/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmicode)
 
+</div>
+
+<br>
+
+## 🌐 **VISITEURS**
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=xmicode&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/xmicode?style=for-the-badge&label=GITHUB+FOLLOWERS&color=blueviolet)
+
+</div>
+
+<br>
+
+## 🎮 **ANIMATION INTERACTIVE**
+
+<div align="center">
+
+![Code Animation](https://raw.githubusercontent.com/xmicode/xmicode/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<br>
+
+## 📈 **ÉVOLUTION CONTINUE**
+
+```javascript
+const xmicode = {
+  passion: "Développement & Création de contenu",
+  experience: "Depuis 14 ans",
+  languages: ["JavaScript", "PHP", "Python", "C++"],
+  youtube: "Tech & Code Tutorials",
+  status: "Toujours en apprentissage 🚀"
+};
