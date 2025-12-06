@@ -4,7 +4,7 @@
   
 ![Animated Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:4834d4,100:130f40&height=200&section=header&text=micode&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=👨‍💻+Développeur+depuis+14+ans;🎬+YouTubeur+Tech+%26+Code;Rejoins+Nous+sur+YouTube+!!!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%F0%9F%91%A8%F0%9F%92%BB+Développeur+depuis+14+ans;🎬+YouTubeur+Tech+%26+Code;Rejoins+nous+sur+YouTube+!!!" alt="Typing SVG" />
 
 
 <br>
