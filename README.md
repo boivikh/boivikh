@@ -1,4 +1,4 @@
-# 🚀 **xmicode** - Développeur Passionné & Créateur de Contenu
+
 
 <div align="center">
   
@@ -39,7 +39,7 @@
 
 <br>
 
-## 💻 **TECHNOLOGIES MAÎTRISÉES**
+## 💻 **J'ADORE **
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 
 <br>
 
-## 🔗 **CONNECTE-TOI AVEC MOI**
+## 🔗 **CONNECTE-TOI AVEC MOI !! ;)**
 
 <div align="center">
 
@@ -84,14 +84,14 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=xmicode&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 ![GitHub Followers](https://img.shields.io/github/followers/xmicode?style=for-the-badge&label=GITHUB+FOLLOWERS&color=blueviolet)
 
 </div>
 
 <br>
 
-## 🎮 **ANIMATION INTERACTIVE**
+## 🎮 **🥉**
 
 <div align="center">
 
