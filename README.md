@@ -9,7 +9,7 @@
 
 <br>
 
-## 🌟 **STATISTIQUES **
+## 🌟 STATISTIQUES
 
 <table align="center">
   <tr>
@@ -39,7 +39,7 @@
 
 <br>
 
-## 💻 **J'ADORE **
+## 💻 J'ADORE 
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 <br>
 
-## 📊 **ACTIVITÉ GITHUB**
+## 📊 ACTIVITÉ GITHUB
 
 <div align="center">
 
